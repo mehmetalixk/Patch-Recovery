@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://free.keep.sh/cR1bkKGTjMU95uHT/recovery.img'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://free.keep.sh/cR1bkKGTjMU95uHT/recovery.img
 
 jobs:
   build:
